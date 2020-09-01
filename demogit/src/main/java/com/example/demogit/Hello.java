@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("master添加");
         System.out.println("dev添加");
         System.out.println("别人修改master");
+        System.out.println("master添加2");
     }
 }
