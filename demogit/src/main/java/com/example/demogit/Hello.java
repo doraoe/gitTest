@@ -12,10 +12,7 @@ public class Hello {
         System.out.println("master添加2");
         System.out.println("dev添加2");
         System.out.println("dev添加3");
-<<<<<<< HEAD
         System.out.println("master添加4");
-=======
         System.out.println("dev添加4");
->>>>>>> dev
     }
 }
