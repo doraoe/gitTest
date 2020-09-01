@@ -16,5 +16,6 @@ public class Hello {
         System.out.println("dev添加5 测试pull和merge");
         System.out.println("dev添加4");
         System.out.println("dev1添加");
+        System.out.println("dev添加6");
     }
 }
