@@ -1,6 +1,6 @@
 package com.example.demogit;
 
-public class Hello {
+public class Hello2 {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("更新1");
@@ -16,6 +16,5 @@ public class Hello {
         System.out.println("dev添加4");
         System.out.println("别人修改master2");
         System.out.println("master添加5");
-        System.out.println("master添加6");
     }
 }
