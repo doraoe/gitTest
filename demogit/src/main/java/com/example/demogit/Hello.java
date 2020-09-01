@@ -6,7 +6,10 @@ public class Hello {
         System.out.println("更新1");
         System.out.println("更新3");
         System.out.println("创建分支dev");
+        System.out.println("master添加");
         System.out.println("dev添加");
+        System.out.println("别人修改master");
+        System.out.println("master添加2");
         System.out.println("dev添加2");
         System.out.println("dev添加4");
         System.out.println("dev1添加");
