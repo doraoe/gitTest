@@ -16,5 +16,6 @@ public class Hello {
         System.out.println("dev添加4");
         System.out.println("别人修改master2");
         System.out.println("master添加5");
+        System.out.println("别人修改master3");
     }
 }
