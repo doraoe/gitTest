@@ -1,7 +1,7 @@
-package com.example.demogit.designDemo;
+package com.example.demogit.designDemo.danli;
 
 public class LanHan {
-    private static LanHan lanHan;
+    private volatile static LanHan lanHan;
     private LanHan(){
     }
     public static LanHan getLanHan(){

@@ -1,4 +1,4 @@
-package com.example.demogit.designDemo;
+package com.example.demogit.designDemo.danli;
 
 public class EHan {
     private  static EHan eHan = new EHan();
