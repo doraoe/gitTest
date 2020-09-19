@@ -21,7 +21,7 @@ public class UserController {
     public List<User> allUser(){
         User user = new User();
         user.setuId(111);
-        user.setName("lz");
+        user.setName("lz2");
         List<User> users = new ArrayList<>();
         return users;
     }
