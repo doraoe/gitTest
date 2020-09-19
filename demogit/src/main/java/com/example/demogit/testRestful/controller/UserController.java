@@ -31,6 +31,7 @@ public class UserController {
         User user = new User();
         user.setuId(uid);
         user.setName("dev2 stash");
+        user.setName("dev2 stash3");
         return user;
     }
 }
