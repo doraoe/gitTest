@@ -30,6 +30,7 @@ public class UserController {
     public User delUser(@RequestParam("uid") Integer uid){
         User user = new User();
         user.setuId(uid);
+        user.setName("dev2 stash");
         return user;
     }
 }
