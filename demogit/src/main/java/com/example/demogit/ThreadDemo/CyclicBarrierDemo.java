@@ -14,8 +14,8 @@ public class CyclicBarrierDemo {
         for (int i = 0; i < 7; i++) {
             int finalI = i;
             new Thread(()->{
-                System.out.println("线程"+Thread.currentThread().getName()+"找到"+ finalI +"龙珠");
                 try {
+                    System.out.println("线程"+Thread.currentThread().getName()+"找到"+ finalI +"龙珠");
                     cyclicBarrier.await();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
